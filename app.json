@@ -1,0 +1,26 @@
+{
+  "id": "a72c3543-7c33-441a-a9ae-542e32b57dfd",
+  "name": "E2Demo",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://E2Demo.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
