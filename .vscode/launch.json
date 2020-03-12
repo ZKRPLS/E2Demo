@@ -9,6 +9,7 @@
             "serverInstance": "nav",
             "authentication": "UserPassword",
             "startupObjectId": 22,
+            "schemaUpdateMode": "ForceSync",
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true
