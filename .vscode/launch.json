@@ -8,7 +8,7 @@
             "server": "http://navdemo1",
             "serverInstance": "nav",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 9999999999,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true
